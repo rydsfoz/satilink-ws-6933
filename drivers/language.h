@@ -5,7 +5,7 @@
 // This program is open source. For license terms, see the LICENSE file.
 // Licensed under the Academic Free License version 3.0.
 
-// Author: Rosiney D. da Silva, 2020-2024.
+// Author: Rosiney D. da Silva, 2020-2025.
 
 #ifndef LANGUAGE_H
 #define LANGUAGE_H
@@ -125,18 +125,8 @@ const char *get_str_del(void);
 const char *get_str_message(void);
 const char *get_str_language(void);
 
-extern const char *str_lnb_type[];
-extern const char *str_lnb_power[];
-extern const char *str_polarity[];
-extern const char *str_diseqc_mode[];
-extern const char *str_diseqc1[];
-extern const char *str_if_channel[];
-extern const char *str_center_frequency[];
-extern const char *str_pwr_unit[];
-extern const char *str_22k[];
-extern const char *str_local_oscilator[];
-
 #endif // LANGUAGE_H
 
 // Reference(s):
 //   @1: A: B - C (D)
+
