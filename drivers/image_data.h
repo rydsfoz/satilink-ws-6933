@@ -1,14 +1,14 @@
-// image (...)
+// image_data (...)
 //
 // TODO: Explicacao/descricao (...)
 
 // This program is open source. For license terms, see the LICENSE file.
 // Licensed under the Academic Free License version 3.0.
 
-// Author: Rosiney D. da Silva, 2020-2024.
+// Author: Rosiney D. da Silva, 2020-2025.
 
-#ifndef IMAGE_H
-#define IMAGE_H
+#ifndef IMAGE_DATA_H
+#define IMAGE_DATA_H
 
 #include <inttypes.h>
 
@@ -22,7 +22,5 @@ extern const uint8_t image_tools_0[]; // tools: azimuth
 extern const uint8_t image_tools_1[]; // tools: elevation
 extern const uint8_t image_tools_2[]; // tools: polarization
 
-#endif // IMAGE_H
+#endif // IMAGE_DATA_H
 
-// Reference(s):
-//   @1: A: B - C (D)
