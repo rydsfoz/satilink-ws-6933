@@ -23,4 +23,3 @@ extern const uint8_t image_tools_1[]; // tools: elevation
 extern const uint8_t image_tools_2[]; // tools: polarization
 
 #endif // IMAGE_DATA_H
-

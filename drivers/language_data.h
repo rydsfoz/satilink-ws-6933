@@ -37,4 +37,3 @@ extern const char *str_22k[];
 extern const char *str_local_oscilator[];
 
 #endif // LANGUAGE_DATA_H
-

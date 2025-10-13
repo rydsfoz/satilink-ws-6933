@@ -15,4 +15,3 @@
 extern const uint8_t ds3103c_firmware[];
 
 #endif // DS3103C_FIRMWARE_H
-

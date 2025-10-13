@@ -15,4 +15,3 @@
 extern const uint8_t ds3x0xx_firmware[];
 
 #endif // DS3X0XX_FIRMWARE_H
-

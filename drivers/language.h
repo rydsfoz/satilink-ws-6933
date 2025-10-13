@@ -129,4 +129,3 @@ const char *get_str_language(void);
 
 // Reference(s):
 //   @1: A: B - C (D)
-

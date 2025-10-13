@@ -15,4 +15,3 @@
 extern const uint8_t rs6000b_firmware[];
 
 #endif // RS6000B_FIRMWARE_H
-

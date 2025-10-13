@@ -139,4 +139,3 @@ static inline const char *get_str_gen_1(const char *str[])
 
   return str[language_idx];
 }
-
